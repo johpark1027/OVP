@@ -1,0 +1,10 @@
+#
+#Wed Jun 17 18:03:47 UTC 2020
+Name=SampleData2
+URL=https\://services.odata.org
+ProxyType=Internet
+Type=HTTP
+WebIDEEnabled=true
+Authentication=NoAuthentication
+WebIDEUsage=odata_gen
+WebIDESystem=Northwind
